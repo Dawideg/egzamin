@@ -1,0 +1,14 @@
+C:\Users\vavit\source\repos\sszkol\ConsoleApp10\bin\Debug\net9.0\ConsoleApp10.exe
+C:\Users\vavit\source\repos\sszkol\ConsoleApp10\bin\Debug\net9.0\ConsoleApp10.deps.json
+C:\Users\vavit\source\repos\sszkol\ConsoleApp10\bin\Debug\net9.0\ConsoleApp10.runtimeconfig.json
+C:\Users\vavit\source\repos\sszkol\ConsoleApp10\bin\Debug\net9.0\ConsoleApp10.dll
+C:\Users\vavit\source\repos\sszkol\ConsoleApp10\bin\Debug\net9.0\ConsoleApp10.pdb
+C:\Users\vavit\source\repos\sszkol\ConsoleApp10\obj\Debug\net9.0\ConsoleApp10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vavit\source\repos\sszkol\ConsoleApp10\obj\Debug\net9.0\ConsoleApp10.AssemblyInfoInputs.cache
+C:\Users\vavit\source\repos\sszkol\ConsoleApp10\obj\Debug\net9.0\ConsoleApp10.AssemblyInfo.cs
+C:\Users\vavit\source\repos\sszkol\ConsoleApp10\obj\Debug\net9.0\ConsoleApp10.csproj.CoreCompileInputs.cache
+C:\Users\vavit\source\repos\sszkol\ConsoleApp10\obj\Debug\net9.0\ConsoleApp10.dll
+C:\Users\vavit\source\repos\sszkol\ConsoleApp10\obj\Debug\net9.0\refint\ConsoleApp10.dll
+C:\Users\vavit\source\repos\sszkol\ConsoleApp10\obj\Debug\net9.0\ConsoleApp10.pdb
+C:\Users\vavit\source\repos\sszkol\ConsoleApp10\obj\Debug\net9.0\ConsoleApp10.genruntimeconfig.cache
+C:\Users\vavit\source\repos\sszkol\ConsoleApp10\obj\Debug\net9.0\ref\ConsoleApp10.dll

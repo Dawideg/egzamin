@@ -1,0 +1,7 @@
+C:\Users\vavit\source\repos\sszkol\ConsoleApp14\bin\Debug\ConsoleApp14.exe.config
+C:\Users\vavit\source\repos\sszkol\ConsoleApp14\bin\Debug\ConsoleApp14.exe
+C:\Users\vavit\source\repos\sszkol\ConsoleApp14\bin\Debug\ConsoleApp14.pdb
+C:\Users\vavit\source\repos\sszkol\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.AssemblyReference.cache
+C:\Users\vavit\source\repos\sszkol\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.CoreCompileInputs.cache
+C:\Users\vavit\source\repos\sszkol\ConsoleApp14\obj\Debug\ConsoleApp14.exe
+C:\Users\vavit\source\repos\sszkol\ConsoleApp14\obj\Debug\ConsoleApp14.pdb

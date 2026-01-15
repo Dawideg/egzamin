@@ -1,0 +1,14 @@
+C:\Users\vavit\source\repos\sszkol\ConsoleApp8\bin\Debug\net9.0\ConsoleApp8.exe
+C:\Users\vavit\source\repos\sszkol\ConsoleApp8\bin\Debug\net9.0\ConsoleApp8.deps.json
+C:\Users\vavit\source\repos\sszkol\ConsoleApp8\bin\Debug\net9.0\ConsoleApp8.runtimeconfig.json
+C:\Users\vavit\source\repos\sszkol\ConsoleApp8\bin\Debug\net9.0\ConsoleApp8.dll
+C:\Users\vavit\source\repos\sszkol\ConsoleApp8\bin\Debug\net9.0\ConsoleApp8.pdb
+C:\Users\vavit\source\repos\sszkol\ConsoleApp8\obj\Debug\net9.0\ConsoleApp8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vavit\source\repos\sszkol\ConsoleApp8\obj\Debug\net9.0\ConsoleApp8.AssemblyInfoInputs.cache
+C:\Users\vavit\source\repos\sszkol\ConsoleApp8\obj\Debug\net9.0\ConsoleApp8.AssemblyInfo.cs
+C:\Users\vavit\source\repos\sszkol\ConsoleApp8\obj\Debug\net9.0\ConsoleApp8.csproj.CoreCompileInputs.cache
+C:\Users\vavit\source\repos\sszkol\ConsoleApp8\obj\Debug\net9.0\ConsoleApp8.dll
+C:\Users\vavit\source\repos\sszkol\ConsoleApp8\obj\Debug\net9.0\refint\ConsoleApp8.dll
+C:\Users\vavit\source\repos\sszkol\ConsoleApp8\obj\Debug\net9.0\ConsoleApp8.pdb
+C:\Users\vavit\source\repos\sszkol\ConsoleApp8\obj\Debug\net9.0\ConsoleApp8.genruntimeconfig.cache
+C:\Users\vavit\source\repos\sszkol\ConsoleApp8\obj\Debug\net9.0\ref\ConsoleApp8.dll
